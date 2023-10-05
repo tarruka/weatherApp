@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Tarek Radovan on 04/10/2023.
+  
+*/
+
+// MARK: HomeView
+"favorite_weathers_list_title" = "Favorites weathers";
+"some_weathers_list_title" = "Some weathers...";
+
+
+// MARK: MapView
+"map_view_title" = "Tap Any Place to Know Its Weather!";
+
+// MARK: CardView
+"max_temperature_value" = "Max: %@°";
+"min_temperature_value" = "Min: %@°";
+"temperature_value" = "%@°";
+"feels_like_temperature_value" = "Feels like: %@°";
+"humidity_value_short" = "%@%%";
+"humidity_value_normal" = "Humidity: %@%%";
+"pressure_value" = "%@ hPa";
+
+// MARK: Networking Error
+"object_not_found_error_message" = "Object not found. Please check the identifier and try again.";
+"server_error_message" = "Internal server error. Please retry later.";
+"decoding_error_message" = "Data decoding issue. Check request and try again.";
+"bad_request_error_message" = "Invalid request. Verify parameters and retry.";
+"bad_url_error_message" = "Incorrect URL. Check endpoint and try again.";
+
+// MARK: Weather Detail View
+"feeling_detail_title" = "Feeling";
+"max_temp_detail_title" = "Max temp";
+"min_temp_detail_title" = "Min temp";
+"humidity_detail_title" = "Humidity";
+"pressure_detail_title" = "Pressure";
+"coordinates_detail_title" = "Coordinates";
+"latitude_detail_title" = "Latitude";
+"longitude_detail_title" = "Longitude";

@@ -1,0 +1,136 @@
+[
+  {
+    "coord": {
+      "lon": -56.1674,
+      "lat": -34.8335
+    },
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "description": "moderate rain",
+        "icon": "10n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.01,
+      "feels_like": 15.02,
+      "temp_min": 14.84,
+      "temp_max": 15.01,
+      "pressure": 1013,
+      "humidity": 94
+    },
+    "visibility": 3000,
+    "wind": {
+      "speed": 2.06,
+      "deg": 290
+    },
+    "rain": {
+      "1h": 0.92
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1696380659,
+    "sys": {
+      "type": 1,
+      "id": 8687,
+      "country": "UY",
+      "sunrise": 1696324725,
+      "sunset": 1696369717
+    },
+    "timezone": -10800,
+    "id": 3441575,
+    "name": "Montevideo",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": -0.1257,
+      "lat": 51.5085
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 12.22,
+      "feels_like": 11.82,
+      "temp_min": 10.51,
+      "temp_max": 13.41,
+      "pressure": 1027,
+      "humidity": 89
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 5.14,
+      "deg": 250
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1696380601,
+    "sys": {
+      "type": 2,
+      "id": 2006068,
+      "country": "GB",
+      "sunrise": 1696399512,
+      "sunset": 1696440797
+    },
+    "timezone": 3600,
+    "id": 2643743,
+    "name": "London",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": -60,
+      "lat": -36
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 12.25,
+      "feels_like": 11.88,
+      "temp_min": 12.25,
+      "temp_max": 12.25,
+      "pressure": 1005,
+      "humidity": 90
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.79,
+      "deg": 135,
+      "gust": 3.58
+    },
+    "clouds": {
+      "all": 96
+    },
+    "dt": 1696379876,
+    "sys": {
+      "type": 2,
+      "id": 2079771,
+      "country": "AR",
+      "sunrise": 1696325611,
+      "sunset": 1696370670
+    },
+    "timezone": -10800,
+    "id": 3435907,
+    "name": "Buenos Aires",
+    "cod": 200
+  }
+
+]

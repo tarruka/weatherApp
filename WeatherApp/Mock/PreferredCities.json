@@ -1,0 +1,32 @@
+[
+  {
+      "id": 3441575,
+      "name": "Montevideo",
+      "state": "",
+      "country": "UY",
+      "coord": {
+          "lon": -56.167351,
+          "lat": -34.833462
+      }
+  },
+  {
+      "id": 2643743,
+      "name": "London",
+      "state": "",
+      "country": "GB",
+      "coord": {
+          "lon": -0.12574,
+          "lat": 51.50853
+      }
+  },
+  {
+      "id": 3435907,
+      "name": "Buenos Aires",
+      "state": "",
+      "country": "AR",
+      "coord": {
+          "lon": -60.0,
+          "lat": -36.0
+      }
+  }
+]
