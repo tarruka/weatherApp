@@ -1,12 +1,11 @@
 
 # WeatherApp
- <img style="width: 300px;" src="https://github.com/tarruk/weatherApp/assets/36048605/22c0b9a8-4f89-475a-8005-e6c4029cc561">
+ <img style="width: 300px;" src="https://github.com/tarruka/weatherApp/assets/147015603/3794785e-c28d-436d-b801-0ae436963fb4">
 
 ### Description
 WeatherApp is a simple, SwiftUI-based weather application designed to provide real-time weather updates and essential information for various locations. It offers a seamless user experience, allowing users to effortlessly check weather conditions, city names, and other vital details for different places.
 
-![demo-weather](https://github.com/tarruk/weatherApp/assets/36048605/c8ea0fa6-4b1c-4a4d-a7f6-067237346e61)
-
+![demo-weather](https://github.com/tarruka/weatherApp/assets/147015603/efc4bc9f-893a-440a-a017-469e2d57dd9a)
 
 ### Principal features
 - Current Weather Information: Get instant weather updates, city names, and basic details for:
