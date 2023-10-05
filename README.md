@@ -22,6 +22,8 @@ WeatherApp is a simple, SwiftUI-based weather application designed to provide re
     - Dark theme for nighttime
     - Dynamic shadows and more.
 
+- More Information: The world map allows users to search for weather information anywhere in the world.
+
 - Interactive Animations: Engage with the app through smooth animations that enhance user interaction.
 
 - Weather Detail: It's possible to access detailed weather information for each location by simply clicking on it. This feature provides in-depth weather details.
